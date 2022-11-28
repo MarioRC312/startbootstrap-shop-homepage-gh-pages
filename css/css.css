@@ -1,0 +1,15 @@
+#logoplay{
+    width: 50px;
+    height: auto;
+    padding-right: 10px;
+}
+  
+
+body {
+    background-color: blue;
+}
+
+.text-center:hover{
+    transform: scale(1.25);
+    transition-duration: 1s;
+}
